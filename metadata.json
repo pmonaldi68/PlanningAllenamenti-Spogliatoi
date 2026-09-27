@@ -1,0 +1,8 @@
+{
+  "name": "ASD Calcio Planning & Spogliatoi",
+  "description": "Planning settimanale allenamenti e assegnazione spogliatoi sincronizzato con Google Sheets per atleti, genitori e staff.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
